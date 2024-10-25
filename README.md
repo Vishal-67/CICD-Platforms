@@ -19,3 +19,7 @@ To run the application, use the command:
 ```bash
 go run main.go
 go test ./calculator
+```
+
+### Acknowledgments
+This project was developed with the assistance of ChatGPT, an AI language model by OpenAI.
