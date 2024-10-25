@@ -1,0 +1,5 @@
+# Go binary files
+/bin
+/*.exe
+/*.out
+*.test
