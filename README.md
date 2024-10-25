@@ -22,4 +22,4 @@ go test ./calculator
 ```
 
 ### Acknowledgments
-This project was developed with the assistance of ChatGPT, an AI language model by OpenAI.
+This application was developed with the assistance of ChatGPT, an AI language model by OpenAI.
